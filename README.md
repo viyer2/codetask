@@ -5,7 +5,10 @@ curl -L https://cpanmin.us | perl - -M https://cpan.metacpan.org -n Mojolicious'
 install Path::Class 
 cpamn Path::Class 
 
-to run this check out the project and after the installation 
+to run this, check out the project and after the installation 
+You should see a cache dir and wordfinder.pl 
+
+
 run morbo wordfinder.pl 
 if all is well you should see 
 Server available at http://127.0.0.1:3000 
